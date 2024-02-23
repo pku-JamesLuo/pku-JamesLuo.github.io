@@ -18,7 +18,7 @@ Experience
 ======
 - Peking University<br>
   Undergrad Research at Spatial and Temporal Restoration, Understanding and Compression Team([STRUCT](http://39.96.165.147/struct.html)). Advisor: [Jiaying Liu](http://39.96.165.147/people/liujiaying.html))<br>
-  October.2023 – Present
+  Oct.2023 – Present
 
 
 Projects
