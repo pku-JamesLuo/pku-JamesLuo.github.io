@@ -9,9 +9,10 @@ redirect_from:
 
 I am Jinyi Luo, a second-year undergraduate student majoring in Artificial Intelligence at [Tong Class](https://tongclass.ac.cn/), Yuanpei College, Peking university.
 
-It is my fortune to work as an undergraduate intern at the Spatial and Temporal Restoration, Understanding and Compression Team ([STRUCT],(http://39.96.165.147/struct.html)) of Wangxuan Institute of Computer Technology ([WICT](https://www.icst.pku.edu.cn/), supervised by [Prof. Jiaying Liu](http://39.96.165.147/people/liujiaying.html).
+It is my fortune to work as an undergraduate intern at the Spatial and Temporal Restoration, Understanding and Compression Team ([STRUCT](http://39.96.165.147/struct.html)) of Wangxuan Institute of Computer Technology ([WICT](https://www.icst.pku.edu.cn/)), supervised by [Prof. Jiaying Liu](http://39.96.165.147/people/liujiaying.html).
 
 My current research interest lies in computer vision, especially image enhancement and continual learning, and I am also willing to explore additional domains within the field of artificial intelligence in the future.
+
 
 Experience
 ======
@@ -23,8 +24,15 @@ Experience
 Projects
 ======
 
+
 Publication
 ======
+
+
+Contact Me
+======
+Email: luojinyi@stu.pku.edu.cn
+
 
 
 
