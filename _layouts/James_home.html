@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<style>
+body {
+    background: linear-gradient(135deg, #4facfe, #f6d365);
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    display: flex;
+    max-width: 1100px;
+    margin: 50px auto;
+    gap: 30px;
+}
+
+.sidebar {
+    width: 280px;
+    padding: 25px;
+    border-radius: 20px;
+    background: rgba(255,255,255,0.2);
+    backdrop-filter: blur(10px);
+    text-align: center;
+}
+
+.content {
+    flex: 1;
+}
+
+.card {
+    background: rgba(255,255,255,0.9);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+</style>
+
+<div class="container">
+
+    <!-- 左侧 -->
+    <div class="sidebar">
+        <img src="/images/avatar.jpg" style="width:120px;border-radius:50%;">
+
+        <h2>{{ site.author.name }}</h2>
+
+        <p>
+            {{ site.author.bio }}<br><br>
+            {{ site.author.location }}<br>
+            {{ site.author.email }}
+        </p>
+    </div>
+
+    <!-- 右侧 -->
+    <div class="content">
+        <div class="card">
+            {{ content }}
+        </div>
+    </div>
+
+</div>
