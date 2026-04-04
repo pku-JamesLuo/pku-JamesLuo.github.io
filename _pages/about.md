@@ -2,6 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
+layout: James_home
 redirect_from: 
   - /about/
   - /about.html
