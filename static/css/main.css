@@ -114,8 +114,8 @@ section .main-body{
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 } */
  #avatar img {
-    width: 400px;           /* 固定宽度 */
-    height: 400px;          /* 固定高度 */
+    width: 320px;           /* 固定宽度 */
+    height: 320px;          /* 固定高度 */
     border: 8px solid white;
     object-fit: cover;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.25);
@@ -125,6 +125,10 @@ section .main-body{
     #avatar {
         margin: 0;
     }
+}
+
+#home-subtitle {
+    text-align: center;
 }
 
 

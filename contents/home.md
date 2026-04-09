@@ -11,7 +11,8 @@ It is my fortune to work as an undergraduate intern at the Spatial and Temporal 
 Experience
 ======
 - Peking University<br>
-  Research Intern at Spatial and Temporal Restoration, Understanding and Compression Team([STRUCT](http://www.icst.pku.edu.cn/struct/)). Advisor: [Prof. Jiaying Liu](http://www.icst.pku.edu.cn/struct/people/liujiaying.html))<br>
+  Research Intern at Spatial and Temporal Restoration, Understanding and Compression Team([STRUCT](http://www.icst.pku.edu.cn/struct/)). <br>
+  Advisor: [Prof. Jiaying Liu](http://www.icst.pku.edu.cn/struct/people/liujiaying.html))<br>
   Oct.2023 – Present
 
 Research Interests
@@ -19,7 +20,7 @@ Research Interests
 My current research interest lies in Computer Vision, especially on:
  - Image enhancement
  - Image super-resolution
- - Image-deraining
+ - Image deraining
  
  I am also willing to explore additional domains within the field of artificial intelligence and computer vision in the future!
 
