@@ -88,7 +88,7 @@ section .main-body{
 }
 
 
-#avatar {
+/* #avatar {
     position: relative;
     height: 0;
     top:min(-65px,max(-100px,calc(-1*100vw/12)));
@@ -96,18 +96,29 @@ section .main-body{
     margin: 0 1.5rem 0 0;
     float: middle;
     z-index: 9000;
+} */
+ #avatar {
+    position: relative;
+    text-align: center;      /* 内容居中 */
+    margin: 0 auto;          /* 容器本身居中 */
+    top: min(-65px, max(-100px, calc(-1*100vw/12)));
+    max-width: 55em;
+    float: none;             /* 取消浮动 */
+    z-index: 9000;
+    clear: both;             /* 清除浮动影响 */
 }
+
 
 /* #avatar img {
     height: max(130px,min(200px,calc(100vw/6)));
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 } */
  #avatar img {
-    width: 180px;           /* 固定宽度 */
-    height: 180px;          /* 固定高度 */
-    border: 4px solid white;
+    width: 400px;           /* 固定宽度 */
+    height: 400px;          /* 固定高度 */
+    border: 8px solid white;
     object-fit: cover;
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.25);
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.25);
 }
 
 @media screen and (max-width: 991px) {
