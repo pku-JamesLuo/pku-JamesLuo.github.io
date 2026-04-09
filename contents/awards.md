@@ -1,12 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Merit Student Award, Peking University, 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Second-Prize Scholarship, Peking University, 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Second-Prize Undergraduate Research Award, Yuanpei College, Peking University, 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Contribution in Student Organizations Award, Peking University, 2023.
