@@ -24,7 +24,7 @@ My current research interest lies in Computer Vision, especially on:
  
  I am also willing to explore additional domains within the field of artificial intelligence and computer vision in the future!
 
-Contact
+Contact Me
 ======
 Email: luojinyi[at]stu.pku.edu.cn
 
