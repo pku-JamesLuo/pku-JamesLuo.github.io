@@ -1,5 +1,6 @@
 ---
-permalink: /
+permalink: /about/
+layout: single       # 指定布局
 title: "About Me"
 author_profile: true
 redirect_from: 
