@@ -97,15 +97,25 @@ section .main-body{
     float: middle;
     z-index: 9000;
 } */
- #avatar {
+ /* #avatar {
     position: relative;
-    text-align: center;      /* 内容居中 */
-    margin: 0 auto;          /* 容器本身居中 */
+    text-align: center;      
+    margin: 0 auto;          
     top: min(-65px, max(-100px, calc(-1*100vw/12)));
     max-width: 55em;
-    float: none;             /* 取消浮动 */
+    float: none;           
     z-index: 9000;
-    clear: both;             /* 清除浮动影响 */
+    clear: both;       
+} */
+ #avatar {
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    top: min(-30px, max(-50px, calc(-0.5*100vw/12)));  
+    max-width: 55em;
+    float: none;
+    z-index: 9000;
+    clear: both;
 }
 
 
@@ -114,8 +124,8 @@ section .main-body{
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 } */
  #avatar img {
-    width: 320px;           /* 固定宽度 */
-    height: 320px;          /* 固定高度 */
+    width: 320px;         
+    height: 320px;         
     border: 8px solid white;
     object-fit: cover;
     box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.25);

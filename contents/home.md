@@ -12,7 +12,7 @@ Experience
 ======
 - Peking University<br>
   Research Intern at Spatial and Temporal Restoration, Understanding and Compression Team([STRUCT](http://www.icst.pku.edu.cn/struct/)). <br>
-  Advisor: [Prof. Jiaying Liu](http://www.icst.pku.edu.cn/struct/people/liujiaying.html))<br>
+  Advisor: [Prof. Jiaying Liu](http://39.96.165.147/people/liujiaying.html)<br>
   Oct.2023 – Present
 
 Research Interests
