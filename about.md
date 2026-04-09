@@ -3,7 +3,9 @@ permalink: /about/
 layout: single       # 指定布局
 title: "About Me"
 author_profile: true
-
+redirect_from: 
+  - /about.html
+---
 
 I am Jinyi Luo, a senoir undergraduate student majoring in Artificial Intelligence at [Tong Class](https://tongclass.ac.cn/), [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University](https://www.pku.edu.cn/).
 
